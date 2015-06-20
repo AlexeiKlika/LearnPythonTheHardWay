@@ -1,0 +1,5 @@
+# Working with files #
+open()
+close()
+read()
+exists() ---> from os.path import exists
