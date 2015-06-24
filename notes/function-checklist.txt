@@ -3,3 +3,4 @@ open()
 close()
 read()
 exists() ---> from os.path import exists
+seek()
